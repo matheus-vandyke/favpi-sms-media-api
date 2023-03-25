@@ -1,15 +1,15 @@
-# photos-api
- a website that allow users to submit photos via sms messages and display them on the website via the Twilio api
+# Fav:pi: Twilio SMS Media API
+ 🇺🇸 A website that allow users to submit photos via sms messages and display them on the website via the Twilio api
 
- um site que permite que usuarios enviem fotos por mensagem de sms, que são mostradas no site atraves da api do Twilio
+ 🇧🇷 Um site que permite que usuarios enviem fotos por mensagem de sms, que são mostradas no site atraves da api do Twilio
 
-This website was made during a freecodecamp video-course, which i was doing to learn how to use API's 
+🇺🇸 This website was made during a freecodecamp video-course, which i was doing to learn how to use API's 
 
-Esse site foi feito durante uma video-aula do freecodecamp, que eu fiz com o intuito de aprender a usar API's
+🇧🇷 Esse site foi feito durante uma video-aula do freecodecamp, que eu fiz com o intuito de aprender a usar API's
 
-For this website to work, you need to host it on Twilio, and create a value with your twilio phone number on the project environment
+🇺🇸 For this website to work, you need to host it on Twilio, and create a value with your twilio phone number on the project environment
 
-Para esse site funcionar voce precisa hospedar no Twilio, e criar um valor com seu numero de telefone Twilio no environment do projeto
+🇧🇷 Para esse site funcionar voce precisa hospedar no Twilio, e criar um valor com seu numero de telefone Twilio no environment do projeto
 
 # FreeCodeCamp Course / Video-Aula do FreeCodeCamp
 
