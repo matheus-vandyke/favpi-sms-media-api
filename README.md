@@ -3,9 +3,9 @@
 
  🇧🇷 Um site que permite que usuarios enviem fotos por mensagem de sms, que são mostradas no site atraves da api do Twilio
 
-🇺🇸 This website was made during a freecodecamp video-course, which i was doing to learn how to use API's 
+🇺🇸 This website was made during a FreeCodeCamp video-course, which i was doing to learn how to use API's 
 
-🇧🇷 Esse site foi feito durante uma video-aula do freecodecamp, que eu fiz com o intuito de aprender a usar API's
+🇧🇷 Esse site foi feito durante uma video-aula do FreeCodeCamp, que eu fiz com o intuito de aprender a usar API's
 
 🇺🇸 For this website to work, you need to host it on Twilio, and create a value with your twilio phone number on the project environment
 
